@@ -1,4 +1,4 @@
-# ADB_tools
-Tools for administering Salesforce Alumni Database. Written in Python by Matt Niksch.
+# Questions for Matt
 
-The DSSG 2015 College Persistence team will modify these as needed when integrating data from other charter school partners.
+## Currently_Enrolled_At__c
+This column does not seem to exist for KIPP - is this expected? Where is Currently_Enrolled_At__c coming from? This prevents the sf_reports from running, as well.

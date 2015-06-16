@@ -1,0 +1,10 @@
+.csv
+data
+data/*
+SalesforceExports/*
+.pyc
+*.pyc
+.zip
+__pycache__/
+.DS_Store
+*.do

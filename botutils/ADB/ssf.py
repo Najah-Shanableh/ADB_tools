@@ -38,7 +38,7 @@ def getSF():
         st = input('Enter SF token:')
 
     print('Connecting to Salesforce as user %s' % un,
-            file=sys.stderr)
+        file=sys.stderr)
     sf = Salesforce(username=un, password=pw, security_token=st)
     return sf
 

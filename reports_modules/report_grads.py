@@ -2,7 +2,7 @@
 '''Main module for creating excel reports about persistence'''
 
 from datetime import date
-from ..botutils.tabletools import tabletools as tt
+from botutils.tabletools import tabletools as tt
 
 def safe_name_for_tab(name, length):
     '''Helper function to make sure a name works as a tab name in Excel'''
